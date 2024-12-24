@@ -1,0 +1,12 @@
+In Python you can write variables.
+In Python you can print text.
+In Python you can write lists.
+In Python you can write tuples.
+In Python you can write if statements.
+In Python you can write dictionaries.
+In Python you can input values.
+In Python you can write while loops.
+In Python you can write functions.
+In Python you can write classes.
+In Python you can import functions.
+In Python you can import classes.
